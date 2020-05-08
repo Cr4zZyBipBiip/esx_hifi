@@ -1,4 +1,5 @@
 Locales ['en'] = {
+	['play'] = "https://www.youtube.com/watch?v=",
 	['put_hifi'] = 'You have just dropped the BoomBox',
 	['get_hifi'] = 'Pick up the BoomBox',
 	['play_music'] = 'Start the music',
